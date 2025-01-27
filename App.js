@@ -24,6 +24,7 @@ React.createElement("h2",{},"i am an h2 tag"),
 
 ])
 
+
   //JSX
 
 
